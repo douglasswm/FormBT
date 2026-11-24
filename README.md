@@ -1,3 +1,5 @@
+> **Archived.** FormBT development moved to [`formbt/formbt`](https://github.com/formbt/formbt), a hard fork of FormSG `v9.83.0`. This fork is read-only.
+
 <p align="left">
   <a href="https://form.gov.sg"><img src="https://file.go.gov.sg/form-logo-background-rmved.png"></a>
 </p>
